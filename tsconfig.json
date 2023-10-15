@@ -1,0 +1,12 @@
+{
+  "extends": "@tsconfig/react-native/tsconfig.json",
+  
+    "compilerOptions": {
+      "target": "esnext",
+      "module": "commonjs",
+      "strict": true,
+      "jsx": "react-native",
+      "allowJs": true,
+    "checkJs": false
+    } 
+}
