@@ -55,6 +55,7 @@ Se você gostaria de contribuir para o desenvolvimento deste aplicativo, ficarí
 
 5. A equipe de desenvolvimento revisará suas contribuições e as integrará, se apropriado.
 
+Elaborado através do curso B7Web.
 
 Obrigado por escolher o App Barber Shop !
 
